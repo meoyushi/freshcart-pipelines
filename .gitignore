@@ -4,3 +4,16 @@
 mage.log
 __pycache__/
 .pytest_cache/
+# macOS
+.DS_Store
+
+# Python environments and caches
+.venv/
+venv/
+.pytest_cache/
+
+# Mage local credentials and temporary files
+.ssh_tunnel/
+
+# Generated reports
+Report_23bcs004.pdf
