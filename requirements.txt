@@ -1,6 +1,8 @@
-pandas
+mage-ai
+matplotlib
 numpy
-scikit-learn
-pytest
+pandas
 pika
+pytest
+scikit-learn
 snowflake-connector-python
